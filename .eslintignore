@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+dist/*
+dist
+static/*
+index.html
